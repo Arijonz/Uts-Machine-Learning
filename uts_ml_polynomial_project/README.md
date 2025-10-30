@@ -28,8 +28,6 @@ uts_ml_polynomial_project/
 3. Jalankan semua sel dari atas ke bawah.
 4. Model terbaik dan scaler akan tersimpan di folder kerja (`artifacts/`).
 
-> Dataset default adalah *synthetic* yang telah dibuat sesuai spesifikasi soal. Anda bebas mengganti dengan dataset real (mis. Kaggle) selama kolomnya serupa atau Anda sesuaikan pipeline-nya.
-
 ## Catatan
 - Notebook sudah modular (menggunakan fungsi-fungsi) dan diberi komentar per bagian.
 - `report.md` adalah template laporan yang bisa Anda lengkapi dan ekspor ke PDF.

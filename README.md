@@ -17,7 +17,7 @@ Project ini menyiapkan notebook lengkap pada soal UTS:
 uts_ml_polynomial_project/
 ├─ data/
 │  └─ properties.csv
-├─ uts_polynomial_regression.ipynb
+├─ uts_ml_2201020050.ipynb
 ├─ requirements.txt
 └─ report.md
 ```
